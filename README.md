@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there 👋, I'm Atniker</h1>
-  <p align="center">A Full-Stack developer doing whatever.</p>
+  <p align="center">A Full-Stack developer.</p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=atniker&style=flat-square&color=blue">
   </p>
