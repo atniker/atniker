@@ -48,8 +48,9 @@
 ## 📈 My stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atniker&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=9A85FF&icon_color=E47171&text_color=BD93F9" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atniker&theme=dracula&hide_border=true&ring=FF6E6E&fire=50FA7B&currStreakLabel=BD93F9" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=atniker&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=9A85FF&icon_color=E47171&text_color=BD93F9" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atniker&layout=compact&theme=dracula&hide_border=true&title_color=FF92B8&text_color=F8F8F2" alt="Top Languages" />
 </p>
