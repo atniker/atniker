@@ -17,8 +17,6 @@
   </tr>
 </table>
 
----
-
 <h1 align="center">🚀 My Stacks</h1>
 
 <div>
