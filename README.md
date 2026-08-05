@@ -26,6 +26,12 @@
   <img alt="MongoDB" height="30px" src="https://cdn.simpleicons.org/mongodb/FCB045"/>&nbsp;
   <img alt="Arch Linux" height="30px" src="https://cdn.simpleicons.org/archlinux/585859"/>&nbsp;
   <img alt="Cisco" height="30px" src="https://cdn.simpleicons.org/cisco/FCB045"/>&nbsp;
+  <img alt="Unity" height="30px" src="https://cdn.simpleicons.org/unity/585859"/>&nbsp;
+  <img alt="Python" height="30px" src="https://cdn.simpleicons.org/python/FCB045"/>&nbsp;
+  <img alt="Javascript" height="30px" src="https://cdn.simpleicons.org/javascript/585859"/>&nbsp;
+  <img alt="C#" height="30px" src="https://cdn.simpleicons.org/dotnet/FCB045"/>&nbsp;
+  <img alt="lua" height="30px" src="https://cdn.simpleicons.org/lua/585859"/>&nbsp;
+  <img alt="GNU Bash" height="30px" src="https://cdn.simpleicons.org/gnubash/FCB045"/>&nbsp;
 </div>
 
 <span>Also an itty-bitty bit of C and ARM assembly and ghidra, which I don't have an icon for.</span>
