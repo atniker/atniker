@@ -1,69 +1,39 @@
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h1 align="center">👋 HI. I'm Atniker, a Full-Stack developer</h1>
-      <p align="center">Building robust, scalable applications from database to user interface.</p>
-    <td width="50%" align="center">
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=atniker&style=flat-square&color=blue&label=Profile+Views">
-      </p>
-      <a href="mailto:buzzingboogalo@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://t.me/AtnikYT" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
-      </a>
-  </tr>
-</table>
+<h3>Hey, hello, hi! I'm Atniker, a $${\color{#FCB045}\text{full-stack developer}}$$ is what I can qualify myself as <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"></h3>
 
-<h1 align="center">🚀 My Stacks</h1>
+<h1></h1>
 
+- I'm handling linux pretty well, even my phone is running arch thanks to [Mu Sillicium](https://github.com/Project-Silicium/Mu-Silicium)!
+- I can handle most infras, or get comfy in them in rather short times
+- And alas I love fidgeting with some obscure-to-me stuff, the [legacy tiktok client](https://github.com/atniker/legacy-ios-tiktok-client) I have is an example of the fidgeting 
+- That's about all, pretty short, right?
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=atniker&style=flat-square&color=blue&label=Profile+Views">
+
+### Languages & tools:
 <div>
-  <div align="left">
-    <p>Web things i know</p>
-    <div>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    </div>
-  </div>
-  
-  <br>
-
-  <div align="right">
-    <p>Python web things i know</p>
-    <div>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-    </div>
-  </div>
-  
-  <br>
-
-  <div align="left">
-    <p>Databases i enjoy</p>
-    <div>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    </div>
-  </div>
-  
-  <br>
-
-  <div align="right">
-    <p>Various other stuff i know</p>
-    <div>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-      <img src="https://img.shields.io/badge/Pascal-E93E30?style=for-the-badge&logo=none&logoColor=white" alt="Pascal">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-    </div>
-  </div>
+  <img alt="Github" height="30px" src="https://cdn.simpleicons.org/github/585859"/>&nbsp;
+  <img alt="Gitlab" height="30px" src="https://cdn.simpleicons.org/gitlab/FCB045"/>&nbsp;
+  <img alt="Docker" height="30px" src="https://cdn.simpleicons.org/docker/585859"/>&nbsp;
+  <img alt="Kubernetes" height="30px" src="https://cdn.simpleicons.org/kubernetes/FCB045"/>&nbsp;
+  <img alt="Nginx" height="30px" src="https://cdn.simpleicons.org/nginx/585859"/>&nbsp;
+  <img alt="React" height="30px" src="https://cdn.simpleicons.org/react/FCB045"/>&nbsp;
+  <img alt="Fast API" height="30px" src="https://cdn.simpleicons.org/fastapi/585859"/>&nbsp;
+  <img alt="Tailwind CSS" height="30px" src="https://cdn.simpleicons.org/tailwindcss/FCB045"/>&nbsp;
+  <img alt="MySQL" height="30px" src="https://cdn.simpleicons.org/mysql/585859"/>&nbsp;
+  <img alt="SQLite" height="30px" src="https://cdn.simpleicons.org/sqlite/FCB045"/>&nbsp;
+  <img alt="PostgreSQL" height="30px" src="https://cdn.simpleicons.org/postgresql/585859"/>&nbsp;
+  <img alt="MongoDB" height="30px" src="https://cdn.simpleicons.org/mongodb/FCB045"/>&nbsp;
+  <img alt="Arch Linux" height="30px" src="https://cdn.simpleicons.org/archlinux/585859"/>&nbsp;
+  <img alt="Cisco" height="30px" src="https://cdn.simpleicons.org/cisco/FCB045"/>&nbsp;
 </div>
+
+<span>Also an itty-bitty bit of C and ARM assembly and ghidra, which I don't have an icon for.</span>
+
+<h1></h1>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atnikyt)
+[![Discord](https://img.shields.io/badge/Discord-424549?style=for-the-badge&logo=discord&logoColor=7289da)](https://discord.com/users/754043058416386196)
+[![Mail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:buzzingboogalo@gmail.com)
+
+
